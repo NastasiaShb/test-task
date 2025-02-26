@@ -18,7 +18,7 @@
 
 ## Файлы в репозитории:
 - `task_1.sql` → SQL-запросы.
-- `create_table` → SQL-запросы создание таблиц.
+- `create_table` → SQL-запросы создания таблиц.
 - `task_2.ipynb` → Python-скрипт.
 - `orders.csv`, `items.csv` → входные данные.
 - `README.md` → описание решений.
